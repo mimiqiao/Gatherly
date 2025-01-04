@@ -1,6 +1,6 @@
 export const FEISHU_CONFIG = {
-  APP_ID: 'cli_a7fc0e59d938100c',
-  APP_SECRET: 'OIWOlxV9TKzDYrobnPmgdfACg8lRa42k',
-  BASE_ID: 'VVGIbSMr7aPoqEsYg0Kc7noCn3c',
-  TABLE_ID: 'tblr92PoZbPIw6OJ'
+  APP_ID: '请输入你的飞书 APP_ID',
+  APP_SECRET: '请输入你的飞书 APP_SECRET',
+  BASE_ID: '请输入你的飞书多维表格 BASE_ID',
+  TABLE_ID: '请输入你的飞书多维表格 TABLE_ID'
 }; 
